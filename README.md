@@ -15,12 +15,12 @@ Python, Anaconda and Jupyter Notebook
 
 ### How does replacing the ninth-grade scores affect the following:
 
-*Math and reading scores by grade
+* Math and reading scores by grade
 
-*Scores by school spending
+* Scores by school spending
 
-*Scores by school size
+* Scores by school size
 
-*Scores by school type
+* Scores by school type
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
